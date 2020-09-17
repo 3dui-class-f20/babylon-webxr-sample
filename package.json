@@ -5,6 +5,7 @@
     "main": "index.ts",
     "dependencies": {
         "@babylonjs/core": "^4.1",
+        "@babylonjs/loaders": "^4.1",
         "@babylonjs/materials": "^4.1"
     },
     "devDependencies": {
